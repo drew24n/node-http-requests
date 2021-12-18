@@ -1,0 +1,1 @@
+node get_time.js 60 1000
